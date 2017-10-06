@@ -167,6 +167,8 @@ The above table will return this result after call Serialize method
 ]
 ```
 # About Author
+My name is Juan Marcelo Aviles Paco, I am from Bolivia. I like de software development and build tools to handle data in a single way (i like the abstraction).
+
 I am a developer self motivated working as CEO on Sintic Bolivia company.<br/>
 I like to work on OpenSource project to share my knowledge and useful tools built around all my expertise working on projects.<br/>
 
