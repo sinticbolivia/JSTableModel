@@ -35,6 +35,12 @@ var table_home = new SBTableModel(model, document.getElementById('table-home'));
 table_home.Build();
 </script>
 ```
+# About Author
+I am a developer self motivated working as CEO on Sintic Bolivia company.<br/>
+I like to work on OpenSource project to share my knowledge and useful tools built around all my expertise working on projects.<br/>
+
+# Support
+If you like this project, help me to support it by buying me a coffee.<br/>
 Buy me a coffe by following the next link<br/>
 <a href="https://paypal.me/sinticbolivia" style="text-align:center;">
 	<img src="https://pics.paypal.com/00/p/Mjc5MDY5NjItYTBiYS00M2I1LThiZWItNGNjNmVjOGM5Y2U1/image_2.JPG" alt="" /><br/>
