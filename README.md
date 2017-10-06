@@ -3,6 +3,8 @@ A javascript library to handle html table data in a single way.
 You can place info into table and serialize table data based on user entries.
 
 # Usage Mode
+The javascript class required jQuery, It was built using jQuery 2.x, i think it can works with old versions as well (not tested).
+
 ```
 <div id="table-home"></div>
 <script>
