@@ -37,6 +37,18 @@ var table_home = new SBTableModel(model, document.getElementById('table-home'));
 table_home.Build();
 </script>
 ```
+# Serializing Table Data
+By default the Serialize method builds a JSON array with a object per row.
+You can serialize table data into form-data by using
+
+table.Serialize('form');
+
+It will returns a forms like forma, so you can send it by using GET or POST method.
+```
+<script>
+table_home.Serialize();
+</script>
+```
 # About Author
 I am a developer self motivated working as CEO on Sintic Bolivia company.<br/>
 I like to work on OpenSource project to share my knowledge and useful tools built around all my expertise working on projects.<br/>
