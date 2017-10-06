@@ -3,7 +3,7 @@ A javascript library to handle html table data in a single way.
 You can place info into table and serialize tabla data based on user entries.
 
 # Usage Mode
-<code>
+```
   <div id="table-home"></div>
   <script>
   var model = {
@@ -34,4 +34,4 @@ You can place info into table and serialize tabla data based on user entries.
 		var table_home = new SBTableModel(model, document.getElementById('table-home'));
 		table_home.Build();
   </script>
-</code>
+```
